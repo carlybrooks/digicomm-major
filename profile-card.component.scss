@@ -1,0 +1,41 @@
+.profile-card {
+    margin: 16px;
+    box-shadow: 4px 4px 2px rgb(59, 58, 58);
+    background-image: linear-gradient(to bottom, #3AAFA9, #FEFFFF);
+    border: 1em;
+    border-radius: 1em;
+    padding: 1.5vw;
+    margin: 1vw;
+
+}
+
+.header {
+    margin-top: 2em;
+    margin-bottom: 2em;
+   
+
+}
+
+.header-image {
+    background-image: url('lindsay_profile.JPG');
+    background-size: cover;
+    width: 8vw;
+    height: 8vw;
+  }
+
+.content {
+      margin: 1em;
+  }
+  
+.button {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    background-color: #2B7A78;
+    border: 1em;
+    border-radius: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1vw;
+    color: white;
+    height: min-content;
+}
+  
